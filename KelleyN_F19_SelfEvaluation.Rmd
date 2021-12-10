@@ -1,0 +1,135 @@
+---
+title: "AN/BI 588: End-of-Semester Self Evaluation"
+author: "Natalia"
+date: "December 9, 2021"
+output: 
+  rmarkdown::html_document:
+    theme: cosmo
+---
+
+***
+
+<center>
+
+<font size="+2"><b>Join the Dark Side.</b></font></center><br>
+
+<center><p><img src="https://monophy.com/media/l2ZE2fSY0TkOvR3yM/monophy.gif" style="border:5px solid black"></p>
+</center><br>  
+
+<center>
+
+***
+
+### Overall Impression
+
+***
+
+My experience in this class included initial imposter syndrome which then cycled between feeling like a coding genius and feeling like an absolute failure throughout the rest of the class. However, I learned two things: 1) everyone was struggling with the same problems, and 2) anything can be fixed with google, better organization skills, and an eye for detail. Ultimately, I feel like I gained a better conceptual understanding of R and coding in general as well as the tools to use R to my advantage. 
+
+***
+
+### What were you asked to do?
+
+***
+1. [Homework 1: Push It!](https://github.com/maekell98/AN588-Week-2-nkelley/blob/9aacb0ffb23d1ecf58242e90ab02295e77c1f3d9/nkelley_FinalHomeworkCode_01.html)
+
+
+2. [Homework 2: Titis in the Mist](https://github.com/maekell98/AN588-Week-3-nkelley/blob/c8aebbd338ecb91af08d12296a27cf812abfa1a2/nkelley_FinalHomeworkCode_02.html)
+
+3. [Homework 3: Some of my Best Friends are Zombies...](https://github.com/maekell98/AN588_Zombies_nkelley/blob/21a4aa41e7ebcfc3a43a9b001efd5d76c48e3a96/nkelley_FinalHomeworkCode_03.html)
+
+4. [Homework 4: What's Your Malfunction?](https://github.com/maekell98/AN588_Malfunction_nkelley/blob/6dac2318e84df8564797b204cfafe04619365474/nkelley_FinalHomeworkCode_04.html)
+
+5. [Homework 5: Boots for Days!](https://github.com/maekell98/AN588_Boots_nkelley/blob/88a1ddd788d4d111c8873cce26d16011ac426790/nkelley_FinalHomeworkCode_05.html)
+
+6. [Analysis Replication Assignment](https://github.com/maekell98/nkelley-data-replication-assignment/blob/04a4860ff3bf56cc614684aa005d99c48082ea0e/nkelley-data-replication-assignment.html)
+
+7. [Group Presentation and R Vignette](https://github.com/vzdanowicz/AN588_ctmm/blob/9a7d98419dc168afa22c81c479c394df3001bba0/CTMM_final.html)
+<br><br><br><br><br><br>
+
+***
+
+### What did you accomplish?
+
+***
+
+1. Completed on time. 
+
+2. Completed on time.
+
+3. Completed on time. 
+
+4. Completed on time. However, my completed version contained errors which I went back and fixed during the self evaluation process. What I initially turned in was not only subpar, but left me with unanswered questions. At the time, I didn't feel like I had the mental energy or time to correct it, but I also didn't want to complete the semester knowing I hadn't resolved it. The attached html is the resolved version which includes notes where I fixed things.
+
+5. Completed on time. 
+
+6. Completed on time. 
+
+7. Completed on time. 
+
+A final note: I had some issues with knitting/I didn't really understand the html format until later in the semester, so I went back and fixed my final submissions so they would knit properly. I also reformatted them so they would be easier to navigate while you go through them.<br><br><br><br><br><br>
+
+***
+
+### How well did you accomplish them?
+
+***
+
+I think my best work was definitely done during the data replication assignment. I enjoyed the problem solving process as well as the visual aspect of the assignment. I also felt I had more proficiency with R at this point, and through the process of the assignment, I was able to clarify things that had confused me all semester. 
+
+My worst assignment was definitely the Malfunction assignment. I felt like I barely had the energy to put effort into the assignment and it also felt like the most difficult at the time. Looking back at it, my initial failure with it was a combination of poor organization within my R markdown and feeling overwhelmed in life/the class. I also think this is a point where some of my formatting/coding/R misconceptions came to light the most, although at the time I was just confused. At this point, things like not referencing the same library 3 times or not installing packages in my markdown seem common sense, but at the time, simple things like this were actually a fundamental issue in my understanding of R. 
+
+At the beginning, I feel like my problems would feel confusing and insurmountable a lot of the time, and I would hit a wall where it felt really hard to continue when nothing seemed to work. Now, I look back and attribute a lot of those "walls" to missing commas, misunderstood syntax, and easy google searches I wish I'd done earlier. While this feels a little silly, it also gives me more confidence in my ability to solve these "big" problems that are actually not thaaaat big. Thankfully, at the end of this process, my work feels much more efficient and informed. I know that I've only scratched the surface of what R can do, but I do feel much more well equipped to keep using it.<br><br><br><br><br><br>
+
+***
+
+### How has your understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+Previously, I thought of statistics as the thing you did purely to prepare your results section. Now, having used randomly generated samples and bootstrapping to make estimates and explore data, I realize that statistics is a fundamental aspect of the entire project design process. It's important to start with statistics so you can figure out what kind of data you need in order to accomplish the analysis you're looking for. Later on, there are many different tests we can do to analyze our data, and not all tests are the right ones for our data sets. There are many tests that seem synonymous but are actually rather nuanced. Choosing the right test can help us defend the conclusions we come to. R is helpful because it opens up a world of packages to help with analysis that may have felt inaccessible due to it's complexity but is ultimately the right analysis for the data.<br><br><br><br><br><br><br><br>
+
+***
+
+### What did you learn from all this?
+
+***
+
+Before this course, I had never coded in my entire life. The idea of coding was extremely abstract to me, and I came into this class with absolutely no idea what kinds of things I would be expected to accomplish using R. Perhaps the most important thing I learned was understanding the utility and capabilities of R and how I can use that to my advantage. I also learned (and continue to learn) how much organizing my work well eases the problem solving process. Finally, while I had taken basic statistics courses before, this class gave me a greater appreciation for the practical applications of statistics (especially with all the fun animal ecology examples) as well as the ability to assess appropriateness of different statistical analyses.<br><br><br><br><br><br><br><br>
+
+***
+
+### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
+
+***
+
+I quite enjoyed the teamwork readings, especially the "Skip the Sh*t Sandwich" part. My major takeaways were to get to the point, assume good intent when giving and receiving feedback, and practice giving and receiving feedback often. I think we had ample opportunities to practice this throughout the course, and I feel that our class was always extremely respectful and constructive. Teamwork/collaboration can feel somewhat vulnerable, but my experience with teamwork in this class was very positive. <br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
+
+***
+
+The peer commentary process was really important because I was able to reconcile many of my R confusions throughout the course by seeing how other people were organizing their work and using the R markdown format to their advantage. It was also nice to see where other people were struggling too because it made me feel like less of a failure, and on the off chance I had helpful advice, it was nice to feel like I had something to contribute. The Group Project was cool because I learned even more about how different people code, and I also learned about an area of research/statistical analysis that was completely new to me. Both of these aspects of the course lessened my burden rather than contributing to it.<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
+
+***
+
+In all honesty, this class and this semester put me through the ringer. There were many times where I felt like I just wasn't cut out for R, and there were definitely times I wondered if I made the right decision taking this class. In the end, I'm really glad I did. Learning to code was really challenging for me, and I am still by no means a great coder. However, I feel like I now have the foundation to keep learning. I also feel more confident giving and receiving feedback as well as asking questions about subjects that confuse me.<br><br><br><br><br><br><br><br><br><br><br><br>
+
+***
+
+### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>[A-]</center><br>
+
+***
+
+
+
